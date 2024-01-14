@@ -1,2 +1,2 @@
-# Simong Game
+# Simon Game
 Simon game 
