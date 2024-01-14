@@ -1,2 +1,2 @@
-# simon_game
+# Simong Game
 Simon game 
